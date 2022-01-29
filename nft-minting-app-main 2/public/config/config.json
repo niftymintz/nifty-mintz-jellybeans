@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7B19654456176D1633A718686E11896A8176A9A6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7B19654456176D1633A718686E11896A8176A9A6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nifty Mintz JellyBeans",
+  "SYMBOL": "NMJB",
+  "MAX_SUPPLY": 22222,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nifty-mintz-jellybean",
+  "SHOW_BACKGROUND": true
+}
